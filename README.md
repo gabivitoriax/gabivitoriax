@@ -3,7 +3,7 @@
 - 🌱 Sou estudante de Graduação em Engenharia da Computação.
 - 🌱 Sou estudante Técnica em Análise e Desenvolvimento de Sistemas.
 - 🔭 Publico aqui pequenos projetos e exercícios que faço no meu dia a dia, a fim de acompanhar meu progresso.
-- ⚡ Fun fact: Apaixonada por Robótica, Automação, Eletrônica e Inteligência artificial.
+- ⚡ Apaixonada por Robótica, Automação, Eletrônica e Inteligência artificial.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="gabi-Python" height="30" width="40"
