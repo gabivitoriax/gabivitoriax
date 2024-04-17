@@ -4,7 +4,7 @@
 - 🌱 Sou estudante Técnica em Análise e Desenvolvimento de Sistemas.
 - 🔭 Publico aqui pequenos projetos e exercícios que faço no meu dia a dia, a fim de acompanhar meu progresso.
 - ⚡ Apaixonada por Robótica, Automação, Eletrônica e Inteligência artificial.
-- 🏆 Competidora na WorldSkills Xnagai 2026 - Na modalidade de Computação em Nuvem
+- 🏆 Competidora na WorldSkills Xangai 2026, Na modalidade de Computação em Nuvem
 
 <div style="display: inline_block"><br>
   <img align="center" alt="gabi-Python" height="30" width="40"
