@@ -6,7 +6,7 @@
 - ⚡ Apaixonada por Robótica, Automação, Eletrônica e Inteligência artificial.
 - 🏆 Competidora na WorldSkills Xangai 2026, Na modalidade de Computação em Nuvem
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,nodejs,aws,py,java,arduino,)](https://skillicons.dev)
 
 ##
 
