@@ -6,14 +6,7 @@
 - ⚡ Apaixonada por Robótica, Automação, Eletrônica e Inteligência artificial.
 - 🏆 Competidora na WorldSkills Xangai 2026, Na modalidade de Computação em Nuvem
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="gabi-Python" height="30" width="40"
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="gabi-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="gabi-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">  
-  <img aling="center" alt="gabi-javascript" height="30" width="40" src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor"
-  
-</div>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 ##
 
