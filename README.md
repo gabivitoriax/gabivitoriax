@@ -1,4 +1,4 @@
-## Oii, eu sou a Gabriela Santos
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&color=F74C24FF&center=true&vCenter=true&&width=900&lines=Olá,+seja+bem+vindo(a)+ao+meu+perfil+do+GitHub!;Eu+me+chamo+Gabriela+Santos!)](https://git.io/typing-svg)
 
 - 🌱 Sou estudante de Graduação em Engenharia da Computação.
 - 🌱 Sou estudante Técnica em Análise e Desenvolvimento de Sistemas.
