@@ -1,10 +1,10 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&color=F74C24FF&center=true&vCenter=true&&width=900&lines=Olá,+seja+bem+vindo(a)+ao+meu+perfil+do+GitHub!;Eu+me+chamo+Gabriela+Santos!)](https://git.io/typing-svg)
 
 - 🌱 Sou estudante de Graduação em Engenharia da Computação.
-- 🌱 Sou estudante Técnica em Análise e Desenvolvimento de Sistemas.
+- 🌱 Técnica em Análise e Desenvolvimento de Sistemas.
 - 🔭 Publico aqui pequenos projetos e exercícios que faço no meu dia a dia, a fim de acompanhar meu progresso.
 - ⚡ Apaixonada por Robótica, Automação, Eletrônica e Inteligência artificial.
-- 🏆 Competidora na WorldSkills Xangai 2026, Na modalidade de Computação em Nuvem
+- 🏆 Competidora na fase Estadual da WorldSkills Edição Xangai 2026, Na modalidade de Computação em Nuvem
 
 [![My Skills](https://skillicons.dev/icons?i=js,nodejs,aws,py,java,arduino,)](https://skillicons.dev)
 
