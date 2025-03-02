@@ -2,9 +2,9 @@
 
 - 🌱 Sou estudante de Engenharia da Computação. (Previsão de conclusão 12/2026)
 - 🌱 Técnica em Análise e Desenvolvimento de Sistemas.
-- 🔭 Publico aqui pequenos projetos e exercícios que faço no meu dia a dia, a fim de acompanhar meu progresso.
 - ⚡ Apaixonada por Robótica, Automação, Eletrônica e Inteligência artificial.
 - 🏆 Competidora na fase Estadual da WorldSkills Edição Xangai 2026, Na modalidade de Computação em Nuvem
+- 📥 Publico aqui meu projetos afim de acompnhar minha evolução como desenvolvedora.
 
 [![My Skills](https://skillicons.dev/icons?i=js,nodejs,aws,py,java,arduino,)](https://skillicons.dev)
 
